@@ -1,5 +1,6 @@
 # HexUploader
 
+OUTDATED USE HEXUPLOADER-PYTHON
 Hex uploader and serial monitor for the PICDuino.
 
 ## Making Changes and Compilation
