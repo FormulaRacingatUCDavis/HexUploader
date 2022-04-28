@@ -1,6 +1,7 @@
 # HexUploader
 
-OUTDATED USE HEXUPLOADER-PYTHON
+IF YOU LOVE YOURSELF USE THE PYTHON VERSION
+
 Hex uploader and serial monitor for the PICDuino.
 
 ## Making Changes and Compilation
